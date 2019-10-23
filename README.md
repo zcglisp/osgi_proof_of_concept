@@ -38,3 +38,7 @@ OSGi的实现
 
 OSGi的工具  
 [https://bnd.bndtools.org](https://bnd.bndtools.org 'bnd')   
+
+推荐书籍  
+《OSGi实战》《OSGi in Action》  
+![OSGi实战](OSGi_in_Action.jpg)
