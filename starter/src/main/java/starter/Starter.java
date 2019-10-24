@@ -30,6 +30,10 @@ public class Starter {
             System.out.println("greeting 名字");
 
             String command = scanner.nextLine();
+            if (command.isBlank()) {
+                System.out.println("无效的空字符");
+                continue;
+            }
             if (command.startsWith("install ")) {
                 install(command.substring(8));
             }
